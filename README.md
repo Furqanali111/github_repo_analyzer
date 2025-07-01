@@ -64,6 +64,10 @@ ollama serve
 ## ✅ Running the Tool
 
 ```bash
+ollama serve
+```
+```bash
+
 python main.py --repo=https://github.com/someuser/somerepo --option=readme
 ```
 
